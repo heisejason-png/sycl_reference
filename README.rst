@@ -53,3 +53,4 @@ in the rst. Do not add it to ``spelling_wordlist.txt`` add, back
 quotes or other delimeters so it will be ignored.
 
 .. _`SYCL specification`: https://registry.khronos.org/SYCL/specs/sycl-2020/html/sycl-2020.html
+Created by Jason Scott Heise
