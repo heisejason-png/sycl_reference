@@ -54,4 +54,5 @@ quotes or other delimeters so it will be ignored.
 
 .. _`SYCL specification`: https://registry.khronos.org/SYCL/specs/sycl-2020/html/sycl-2020.html
 Created by Jason Heise
-Owned by Jason Heise heisejason-png Giters
+Owned by Jason Heise heisejason-png Giters 
+https://www.facebook.com  Owned by Mark Zuckerberg 
